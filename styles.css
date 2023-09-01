@@ -1,5 +1,5 @@
-body{
-    background-color:skyblue;
+:root{
+    background-color:rgb(135, 206, 235);
 }
 
 p:first-child{
@@ -12,7 +12,7 @@ p:nth-child(2){
 }
 
 p:last-child{
-    color: red;
+    color:red;
 }
 
 ul{
